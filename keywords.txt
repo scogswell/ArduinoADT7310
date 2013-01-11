@@ -1,0 +1,8 @@
+ADT7310	KEYWORD1
+write	KEYWORD2 
+read 	KEYWORD2
+reset 	KEYWORD2
+init	KEYWORD2
+close	KEYWORD2
+setmode	KEYWORD2
+temperature	KEYWORD2
