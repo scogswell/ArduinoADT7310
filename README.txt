@@ -1,9 +1,7 @@
 An Arduino Library to use an ADT7310 Temperature sensor by Steven Cogswell 
 Originally documented here: http://awtfy.com/2010/11/09/an-arduino-library-for-the-adt7310-spi-temperature-sensor/
 
-This is the version I'm using with Github. 
-
-This was the intial information I had in the ADT7310.h file: 
+From the ADT7310.h file: 
 
 /******************************************************************************* 
 ADT7310 - An Arduino Library to use an ADT7310 Temperature sensor 
@@ -11,7 +9,12 @@ Copyright (C) 2010 Steven Cogswell
 
 http://www.analog.com/en/temperature-sensing-and-thermal-management/digital-temperature-sensors/adt7310/products/product.html
 
-Version 20101109A.   
+Version 20130711A.   
+
+Version History:
+20130711A:
+
+- Compatibility with Arduino 1.0+ library spec.  Tested with Arduino 1.0.5 and an UNO r2 Board. 
 
 This library uses hardware SPI via SPI.h
 
